@@ -1,0 +1,12 @@
+nav{
+    color:white;
+    float:right;
+    
+    
+    
+}
+navigation{
+    display:flex;
+    justify-content: flex-end;
+   
+}
